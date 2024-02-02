@@ -12,5 +12,5 @@ Thermocouple inputs
 transistor outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1bp-mnOYWLHn33B2XCYIagYdgkeie9AtJ&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=17kBZ87rJbRVfoDsJPnMZVS7cosOtrbWX&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-agent-1-bt03-es-l-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bt03-es-l-user-guide/
