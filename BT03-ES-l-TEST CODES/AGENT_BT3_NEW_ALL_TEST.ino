@@ -141,6 +141,8 @@ void loop() {
     Serial.println(c2);
   }
 
+
+
   delay(200);
   digitalWrite(13, HIGH);
   digitalWrite(23, LOW);
