@@ -66,7 +66,7 @@ void setup() {
 
 
   pinMode(13, OUTPUT);
-  pinMode(23, OUTPUT);
+  pinMode(33, OUTPUT);
 
   pixels.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
 
